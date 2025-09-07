@@ -1,7 +1,7 @@
 # 🚀 DeployShield
  
 
-DeployShield is a **tool that safely moves your software, APIs, or services from development to production, makes sure only authorized people can deploy, keeps a record of every deployment, and can undo changes if something goes wrong**.
+DeployShield is a **web application (with backend + frontend + infrastructure setup) that helps developers and DevOps teams deploy their applications securely into different environments like Development, Staging, and Production**.
 
 ---
 
